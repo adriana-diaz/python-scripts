@@ -1,4 +1,4 @@
-# Python Cheatsheet
+# Python Cheatsheet 🐍💻
 
 ## 1. Using `end` to control the end of a line in `print()`
 ```python
