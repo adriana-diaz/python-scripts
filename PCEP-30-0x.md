@@ -1,2 +1,10 @@
-# 2.4.7   LAB   Variables
+# My labs of PCEP-30-0x in Cisco 🤖
+
+## 2.4.7   LAB   Variables
 ![image](https://github.com/user-attachments/assets/dd66604f-ec6d-4941-bc2d-6e1ef14ed26c)
+
+## LAB   The print() function and its arguments
+![image](https://github.com/user-attachments/assets/f35c71e3-daed-4293-9d25-31a303db8bd7)
+
+## LAB   Python literals - strings
+![image](https://github.com/user-attachments/assets/627f1352-ce23-47a0-b88f-cfbac99454eb)
