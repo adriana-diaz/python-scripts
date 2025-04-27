@@ -26,9 +26,3 @@ print("James Bond.")
 # is
 # Bond. James Bond.
 ```
-
-## 4. LAB   The print() function and its arguments
-![image](https://github.com/user-attachments/assets/f35c71e3-daed-4293-9d25-31a303db8bd7)
-
-## 5. LAB   Python literals - strings
-![image](https://github.com/user-attachments/assets/627f1352-ce23-47a0-b88f-cfbac99454eb)
