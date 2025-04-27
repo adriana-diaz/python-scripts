@@ -58,6 +58,7 @@ You can assign new values to already existing variables using the assignment ope
 print("Tell me anything...")
 anything = input()
 print("Hmm...", anything, "... Really?")
+# Output:
 #Tell me anything...
 #hello
 #Hmm... hello ... Really?
