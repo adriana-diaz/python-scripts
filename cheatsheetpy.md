@@ -50,3 +50,15 @@ You can assign new values to already existing variables using the assignment ope
 | `del1` | ✅ Legal | ❌ Illegal | Technically allowed in Python, but the quiz marks it illegal because it resembles the reserved word `del`. |
 
 ---
+## 5 input() Function 📥🐍
+
+`input()` is a built-in function used to get input from the user.
+
+```python
+print("Tell me anything...")
+anything = input()
+print("Hmm...", anything, "... Really?")
+#Tell me anything...
+#hello
+#Hmm... hello ... Really?
+```
