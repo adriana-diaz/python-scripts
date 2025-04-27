@@ -26,7 +26,7 @@ print("James Bond.")
 # is
 # Bond. James Bond.
 ```
-## 4 SECTION 2 SUMMARY
+## 4. SECTION 2 SUMMARY
 
 A variable is a named location reserved to store values in the memory. A variable is created or initialized automatically when you assign a value to it for the first time. 
 
@@ -50,7 +50,7 @@ You can assign new values to already existing variables using the assignment ope
 | `del1` | ✅ Legal | ❌ Illegal | Technically allowed in Python, but the quiz marks it illegal because it resembles the reserved word `del`. |
 
 ---
-## 5 input() Function 📥🐍
+## 5. input() Function 
 
 `input()` is a built-in function used to get input from the user.
 
@@ -63,3 +63,8 @@ print("Hmm...", anything, "... Really?")
 #hello
 #Hmm... hello ... Really?
 ```
+## 6. Temporary Variables
+The `hypo` variable temporarily stores a calculated value between two lines of code.
+
+- Used to hold intermediate results.
+- Improves code readability.
