@@ -38,20 +38,15 @@ You can also use compound assignment operators (shortcut operators) to modify va
 
 You can assign new values to already existing variables using the assignment operator or one of the compound operators, for example:
 
-```python
-var = 2
-print(var)
+| Variable | Python Real | Quiz Expected | Why |
+|:---------|:------------|:--------------|:----|
+| `my_var` | ✅ Legal | ✅ Legal | Correct. |
+| `m` | ✅ Legal | ✅ Legal | Correct. |
+| `101` | ❌ Illegal | ❌ Illegal | Cannot start with a number. |
+| `averylongVariablename` | ✅ Legal | ✅ Legal | No problem, long names are allowed. |
+| `m101` | ✅ Legal | ✅ Legal | Starts with a letter, fine. |
+| `m 101` | ❌ Illegal | ❌ Illegal | Contains a space. |
+| `Del` | ✅ Legal | ❌ Illegal | Technically allowed in Python, but the quiz marks it illegal because it resembles the reserved word `del`. |
+| `del1` | ✅ Legal | ✅ Legal | Adding a number makes it fine. |
 
-var = 3
-print(var)
-
-var += 1
-print(var)
-```
-
-You can combine text and variables using the `+` operator, and use the `print()` function to output strings and variables, for example:
-
-```python
-var = "007"
-print("Agent " + var)
-```
+---
