@@ -8,3 +8,6 @@
 
 ## LAB   Python literals - strings
 ![image](https://github.com/user-attachments/assets/627f1352-ce23-47a0-b88f-cfbac99454eb)
+
+## LAB   Variables ‒ a simple converter
+![image](https://github.com/user-attachments/assets/561c7abb-b965-415e-9afa-a1e69a2264fd)
