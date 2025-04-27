@@ -46,7 +46,7 @@ You can assign new values to already existing variables using the assignment ope
 | `averylongVariablename` | ✅ Legal | ✅ Legal | No problem, long names are allowed. |
 | `m101` | ✅ Legal | ✅ Legal | Starts with a letter, fine. |
 | `m 101` | ❌ Illegal | ❌ Illegal | Contains a space. |
-| `Del` | ✅ Legal | ❌ Illegal | Technically allowed in Python, but the quiz marks it illegal because it resembles the reserved word `del`. |
-| `del1` | ✅ Legal | ✅ Legal | Adding a number makes it fine. |
+| `Del` | ✅ Legal | ✅ Legal | Adding a number makes it fine. |
+| `del1` | ✅ Legal | ❌ Illegal | Technically allowed in Python, but the quiz marks it illegal because it resembles the reserved word `del`. |
 
 ---
