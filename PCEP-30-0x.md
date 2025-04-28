@@ -15,3 +15,5 @@
 ## LAb Type casting (type conversions)
 ![image](https://github.com/user-attachments/assets/0f3df01c-1763-48a5-8a7f-9358db50affd)
 
+##  LAB   Variables ‒ Questions and answers
+![image](https://github.com/user-attachments/assets/f0fe1e65-a375-486c-b9b4-882e2dd91eb3)
