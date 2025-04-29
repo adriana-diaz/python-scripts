@@ -20,3 +20,6 @@
 
 ##  LAB  find the largest of several numbers and print it out.
 ![image](https://github.com/user-attachments/assets/69b0a527-37f9-4b61-8a55-7b9815c5eb4f)
+
+##  LAB  Comparison operators and conditional execution
+![image](https://github.com/user-attachments/assets/f919c3e3-854b-4a88-a756-8918ce1cc6f5)
