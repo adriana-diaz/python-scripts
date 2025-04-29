@@ -17,3 +17,6 @@
 
 ##  LAB   Variables ‒ Questions and answers
 ![image](https://github.com/user-attachments/assets/f0fe1e65-a375-486c-b9b4-882e2dd91eb3)
+
+##  LAB  find the largest of several numbers and print it out.
+![image](https://github.com/user-attachments/assets/69b0a527-37f9-4b61-8a55-7b9815c5eb4f)
