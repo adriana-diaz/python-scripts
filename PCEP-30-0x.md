@@ -23,3 +23,21 @@
 
 ##  LAB  Comparison operators and conditional execution
 ![image](https://github.com/user-attachments/assets/f919c3e3-854b-4a88-a756-8918ce1cc6f5)
+
+##  LAB   Essentials of the if-elif-else statement
+![image](https://github.com/user-attachments/assets/311e2fee-a9b3-44d6-8bab-5c34e7021f70)
+
+year = int(input("Enter a year: "))
+
+if year < 1582:
+	print("Not within the Gregorian calendar period")
+else:
+	if year % 4 != 0:
+		print("Common year")
+	elif year % 100 != 0:
+		print("Leap year")
+	elif year % 400 != 0:
+		print("Common year")
+	else:
+		print("Leap year")
+	
