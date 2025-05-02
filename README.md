@@ -1,5 +1,6 @@
 # python-scripts
-🧠 Topics Covered
+## 🧠 Topics Covered
+
 Variables & Data Types
 
 Input and Output
