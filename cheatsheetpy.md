@@ -84,3 +84,25 @@ A `counter` is often used to:
 -Keep track of iterations
 -Control loop execution
 -Store counts of events or items
+
+## 9.  Using `break`
+se sale del loop
+```python
+print("The break instruction:")
+for i in range(1, 6):
+    if i == 3:
+        break
+    print("Inside the loop.", i)
+print("Outside the loop.")
+```
+## 9.  Using `continue`
+se lo salta basicamente
+```python
+print("\nThe continue instruction:")
+for i in range(1, 6):
+    if i == 3:
+        continue
+    print("Inside the loop.", i)
+print("Outside the loop.")
+
+```
