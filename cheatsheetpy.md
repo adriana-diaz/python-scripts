@@ -108,3 +108,12 @@ print("Outside the loop.")
 ```
 ## 10.  Using `continue`
 `del` is a Python statement used to delete variables, list elements, or dictionary keys from memory.
+
+## 11.  Functions vs. Methods
+A function is a block of code that does something. It’s not connected to any specific data. It just takes input, does something, and gives you a result.
+
+A method is like a function, but it's part of an object (like a string or list). It can work on that object and even change it.
+
+In short:
+👉 A function stands alone.
+👉 A method belongs to something (like a string, list, etc.).
