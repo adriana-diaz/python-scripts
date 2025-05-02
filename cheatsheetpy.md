@@ -106,3 +106,5 @@ for i in range(1, 6):
 print("Outside the loop.")
 
 ```
+## 10.  Using `continue`
+`del` is a Python statement used to delete variables, list elements, or dictionary keys from memory.
