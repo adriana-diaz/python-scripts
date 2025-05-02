@@ -171,3 +171,11 @@ while guess != secret_number:
     guess=int(input("Try again:"))
     
 print("Well done, muggle! You are free now.")
+----------------------------------------------------
+# Programa counting mississippily
+import time
+for i in range(1,6):
+    print(i, "Mississippi")
+    time.sleep(1) #asi espera 1 seg
+    
+print("Ready or not, here I come!")
