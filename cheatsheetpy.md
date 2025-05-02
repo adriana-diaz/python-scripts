@@ -68,3 +68,19 @@ The `hypo` variable temporarily stores a calculated value between two lines of c
 
 - Used to hold intermediate results.
 - Improves code readability.
+
+## 7.`while` Loop in Python
+
+The `while` loop repeats a block of code **as long as a given condition is `True`**.
+
+### Syntax:
+```python
+while condition:
+    # code block
+```
+
+## 8. `counter` variable
+A `counter` is often used to:
+-Keep track of iterations
+-Control loop execution
+-Store counts of events or items
