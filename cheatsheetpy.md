@@ -117,3 +117,25 @@ A method is like a function, but it's part of an object (like a string or list).
 In short:
 👉 A function stands alone.
 👉 A method belongs to something (like a string, list, etc.).
+
+## 12. 🧠 Understanding `def` in Python
+
+In Python, `def` is a **keyword** used to define a function.
+
+---
+
+### 🔹 What is a function?
+
+A function is a block of code that has a **name** and can be **called** whenever you need it. Functions help you:
+
+- Organize your code
+- Avoid repeating things
+- Make code easier to read and maintain
+
+---
+
+### 📌 Basic function structure:
+
+```python
+def greet():
+    print("Hello!")
