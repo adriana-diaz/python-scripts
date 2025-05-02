@@ -179,3 +179,4 @@ for i in range(1,6):
     time.sleep(1) #asi espera 1 seg
     
 print("Ready or not, here I come!")
+----------------------------------------------------
