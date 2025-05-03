@@ -179,3 +179,12 @@ Membership check
 if "Bro" in student:
     print("Bro is here!")
 ```
+## 14. The exception proves the rule
+Any part of the code placed between `try` and `except` is executed very specially – any error that occurs here won't terminate program execution. Instead, the control will immediately jump to the first line situated after the except keyword, and no other part of the try branch is executed;
+```python
+try:
+    value = int(input('Enter a natural number: '))
+    print('The reciprocal of', value, 'is', 1/value)        
+except:
+    print('I do not know what to do.')
+```
