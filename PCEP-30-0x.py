@@ -209,3 +209,16 @@ def introduction(first_name, last_name):
 introduction(first_name = "James", last_name = "Bond")
 introduction(last_name = "Skywalker", first_name = "Luke")
 ----------------------------------------------------
+`def` - return without an expression
+def happy_new_year(wishes = True):
+    print("Three...")
+    print("Two...")
+    print("One...")
+    if not wishes:
+        return
+
+    print("Happy New Year!")
+
+happy_new_year()
+
+
