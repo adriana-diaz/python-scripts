@@ -139,3 +139,43 @@ A function is a block of code that has a **name** and can be **called** whenever
 ```python
 def greet():
     print("Hello!")
+```
+---
+## 13. Python Tuples – Summary
+
+### 🔹 What is a tuple?
+
+A tuple is an **ordered**, **immutable** collection in Python. It's like a list, but you **can't change** its values once created.
+
+---
+
+### ✅ Key Features
+
+- Immutable (can’t be modified)
+- Ordered and indexed
+- Allows duplicates
+- More memory-efficient than lists
+
+---
+
+### 🛠️ Creating Tuples
+# Tuple example – ordered and immutable
+
+```python
+student = ("Bro", 21, "male")
+```
+# Methods
+```python
+print(student.count("Bro"))   # Output: 1
+print(student.index("male"))  # Output: 2
+```
+# Loop through tuple
+```python
+for x in student:
+    print(x)
+```
+# Membership check
+```python
+if "Bro" in student:
+    print("Bro is here!")
+```
