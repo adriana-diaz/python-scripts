@@ -159,22 +159,22 @@ A tuple is an **ordered**, **immutable** collection in Python. It's like a list,
 ---
 
 ### 🛠️ Creating Tuples
-# Tuple example – ordered and immutable
+Tuple example – ordered and immutable
 
 ```python
 student = ("Bro", 21, "male")
 ```
-# Methods
+Methods
 ```python
 print(student.count("Bro"))   # Output: 1
 print(student.index("male"))  # Output: 2
 ```
-# Loop through tuple
+Loop through tuple
 ```python
 for x in student:
     print(x)
 ```
-# Membership check
+Membership check
 ```python
 if "Bro" in student:
     print("Bro is here!")
